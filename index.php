@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Magazee HTML5 Template Mo</title>
+    <title>Timeline Kemerdekaan</title>
     <!-- 
 Magazee Template 
 http://www.templatemo.com/tm-514-magazee
